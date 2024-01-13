@@ -1,2 +1,18 @@
-# UNP-Projects-
-Classification and Regression Based Projects 
+# White wine quality prediction-Using Machine learning 
+
+Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). Key highlights:
+
+Studied and Analyzed the White wine quality dataset to apply ML models and present my insights.
+
+Performed various Exploratory Data Analysis to understand the data and compare the variables.
+
+Experimented with different Machine Learning algorithms.
+
+Compared the results to recommend the best Regression model.
+
+COLAB NOTEBOOK LINK :
+https://colab.research.google.com/drive/1U_ckvTjSMtAOBF6Qo6iq23BITRs9I6Qi?usp=sharing
+
+PROJECT PRESENTATION LINK :
+https://www.canva.com/design/DAFyEvR8pgE/tDAtK5zYe8CFvVH-X0fgTw/view?utm_content=DAFyEvR8pgE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
